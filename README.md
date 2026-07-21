@@ -32,4 +32,4 @@ When you run the program, you'll see an interactive menu with the following opti
 
 3. Real-time Monitoring
 
-   <img width="856" height="352" alt="image" src="https://github.com/user-attachments/assets/3bc28ec0-7c67-4151-aa0d-2550ddaf5bef" />
+<img width="856" height="352" alt="image" src="https://github.com/user-attachments/assets/3bc28ec0-7c67-4151-aa0d-2550ddaf5bef" />
