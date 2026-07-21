@@ -13,9 +13,10 @@
 
 Built for system administrators, developers, and power users who need quick, reliable access to process information directly from their terminal.
 
-...
+
 📖 Usage
 When you run the program, you'll see an interactive menu with the following options:
+...
 +--------------------------------------------------+
 |           SYSTEM PROCESS MONITOR                 |
 +--------------------------------------------------+
@@ -28,14 +29,14 @@ When you run the program, you'll see an interactive menu with the following opti
 | 6. System summary                              |
 | 7. Exit                                       |
 +--------------------------------------------------+
-
+...
 
 2. Search Processes by Name
 text
 [?] Choose option (1-7): 4
 
 [>] Enter process name to search: chrome
-
+...
 +-------------------------------------------+
 |       PROCESSES MATCHING 'chrome'          |
 +-------------------------------------------+
@@ -49,8 +50,8 @@ text
 
 [*] Real-time monitoring started
 [+] Press Ctrl+C to stop monitoring and return to menu
-
-
+...
+...
 +--------------------------------------------------+
 |       REAL-TIME MONITORING (Top 10 CPU)          |
 +--------------------------------------------------+
