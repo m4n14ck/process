@@ -14,49 +14,22 @@
 Built for system administrators, developers, and power users who need quick, reliable access to process information directly from their terminal.
 
 
-📖 Usage
+## 📖 Usage
 When you run the program, you'll see an interactive menu with the following options:
-...
-+--------------------------------------------------+
-|           SYSTEM PROCESS MONITOR                 |
-+--------------------------------------------------+
-| Options:                                         |
-| 1. List all processes                           |
-| 2. List top processes by CPU                   |
-| 3. List top processes by memory                |
-| 4. Filter processes by name                    |
-| 5. Real-time monitoring (refresh every 2s)    |
-| 6. System summary                              |
-| 7. Exit                                       |
-+--------------------------------------------------+
-...
+
+<img width="545" height="342" alt="image" src="https://github.com/user-attachments/assets/69b3c343-4052-48f4-95d9-bc8df2d6b0f5" />
+
+## Usage Examples
+
+1. List All Processes
+
+  <img width="850" height="300" alt="image" src="https://github.com/user-attachments/assets/135cbb94-c39c-4d72-b85e-aa5294069e1c" />
+
 
 2. Search Processes by Name
-text
-[?] Choose option (1-7): 4
 
-[>] Enter process name to search: chrome
-...
-+-------------------------------------------+
-|       PROCESSES MATCHING 'chrome'          |
-+-------------------------------------------+
-PID      NAME                           CPU%   MEM (KB)     USER
-+----------+-------------------------------+----------+------------+----------------------+
-9012     chrome                         8.50%   156.7 MB    user
-9013     chrome                         12.30%  245.1 MB    user
+  <img width="852" height="317" alt="image" src="https://github.com/user-attachments/assets/96f1a852-98c2-45ea-8066-5a84db76e9a8" />
+
 3. Real-time Monitoring
-text
-[?] Choose option (1-7): 5
 
-[*] Real-time monitoring started
-[+] Press Ctrl+C to stop monitoring and return to menu
-...
-...
-+--------------------------------------------------+
-|       REAL-TIME MONITORING (Top 10 CPU)          |
-+--------------------------------------------------+
-PID      NAME                           CPU%   MEM (KB)     USER
-+----------+-------------------------------+----------+------------+----------------------+
-5678     rust-analyzer                  15.30%  89.2 MB     user
-9012     chrome                         8.50%   156.7 MB    user
-...
+   <img width="856" height="352" alt="image" src="https://github.com/user-attachments/assets/3bc28ec0-7c67-4151-aa0d-2550ddaf5bef" />
